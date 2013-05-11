@@ -6,7 +6,7 @@
  `state` varchar(2) NOT NULL,
   `weight` varchar(15) NOT NULL ,
   `date` DATE NOT NULL 
-) ENGINE=MyISAM DEFAULT CHARSET=utf8
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 
 INSERT INTO fish_records VALUES ('George', 'Perry', 'bass, largemouth', 'Montgomery Lake', 'GA', '22 lb 4 oz', '1932-06-02');

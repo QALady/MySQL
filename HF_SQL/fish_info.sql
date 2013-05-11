@@ -3,7 +3,7 @@
   `species` varchar(50) NOT NULL,
   `location` varchar(50) NOT NULL,
   `weight` varchar(15) NOT NULL 
-) ENGINE=MyISAM DEFAULT CHARSET=utf8
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 
 INSERT INTO fish_info VALUES ('bass, largemouth' ,'M. salmoides' ,'Montgomery Lake, GA', '22 lb 4 oz'); 
