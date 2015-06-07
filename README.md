@@ -1,13 +1,6 @@
 MySQL Automation
 =======
 
-#### Why do we need DB automation?
-- To get test data - We can directly fetch the test data from database and then work on them in test automation script
-- To verify result - In automation we can verify the front end result with backend entry in the database
-- To delete test data created - In automation it is good practice to delete the test data created, using database automation, we directly fire the delete query to delete the test data created
-- To update certain data - As per the need of test script, the test data can be updated using update query
-
-
 This repository contains collection of examples demonstrating different techniques for automated testing with MySQL. 
 
 Over time, more and more test example will be uploaded here.
